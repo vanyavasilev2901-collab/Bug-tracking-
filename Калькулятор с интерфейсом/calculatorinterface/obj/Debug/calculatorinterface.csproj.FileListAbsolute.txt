@@ -1,0 +1,21 @@
+C:\Users\K416_03\source\repos\calculatorinterface\calculatorinterface\bin\Debug\calculatorinterface.exe.config
+C:\Users\K416_03\source\repos\calculatorinterface\calculatorinterface\bin\Debug\calculatorinterface.exe
+C:\Users\K416_03\source\repos\calculatorinterface\calculatorinterface\bin\Debug\calculatorinterface.pdb
+C:\Users\K416_03\source\repos\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.csproj.AssemblyReference.cache
+C:\Users\K416_03\source\repos\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.Form1.resources
+C:\Users\K416_03\source\repos\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.Properties.Resources.resources
+C:\Users\K416_03\source\repos\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.csproj.GenerateResource.cache
+C:\Users\K416_03\source\repos\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.csproj.CoreCompileInputs.cache
+C:\Users\K416_03\source\repos\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.exe
+C:\Users\K416_03\source\repos\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.pdb
+\\truenas\Students\Инженерный факультет\Общая папка ИСИТ (Инженерный факультет)\ИСИТ-23\Студенты\Васильев Иван\Visual Studio\1\calculatorinterface\calculatorinterface\bin\Debug\calculatorinterface.exe.config
+\\truenas\Students\Инженерный факультет\Общая папка ИСИТ (Инженерный факультет)\ИСИТ-23\Студенты\Васильев Иван\Visual Studio\1\calculatorinterface\calculatorinterface\bin\Debug\calculatorinterface.exe
+\\truenas\Students\Инженерный факультет\Общая папка ИСИТ (Инженерный факультет)\ИСИТ-23\Студенты\Васильев Иван\Visual Studio\1\calculatorinterface\calculatorinterface\bin\Debug\calculatorinterface.pdb
+\\truenas\Students\Инженерный факультет\Общая папка ИСИТ (Инженерный факультет)\ИСИТ-23\Студенты\Васильев Иван\Visual Studio\1\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.csproj.AssemblyReference.cache
+\\truenas\Students\Инженерный факультет\Общая папка ИСИТ (Инженерный факультет)\ИСИТ-23\Студенты\Васильев Иван\Visual Studio\1\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.Properties.Resources.resources
+\\truenas\Students\Инженерный факультет\Общая папка ИСИТ (Инженерный факультет)\ИСИТ-23\Студенты\Васильев Иван\Visual Studio\1\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.Form1.resources
+\\truenas\Students\Инженерный факультет\Общая папка ИСИТ (Инженерный факультет)\ИСИТ-23\Студенты\Васильев Иван\Visual Studio\1\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.csproj.GenerateResource.cache
+\\truenas\Students\Инженерный факультет\Общая папка ИСИТ (Инженерный факультет)\ИСИТ-23\Студенты\Васильев Иван\Visual Studio\1\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.csproj.CoreCompileInputs.cache
+\\truenas\Students\Инженерный факультет\Общая папка ИСИТ (Инженерный факультет)\ИСИТ-23\Студенты\Васильев Иван\Visual Studio\1\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.exe
+\\truenas\Students\Инженерный факультет\Общая папка ИСИТ (Инженерный факультет)\ИСИТ-23\Студенты\Васильев Иван\Visual Studio\1\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.pdb
+\\truenas\Students\Инженерный факультет\Общая папка ИСИТ (Инженерный факультет)\ИСИТ-23\Студенты\Васильев Иван\Visual Studio\1\calculatorinterface\calculatorinterface\obj\Debug\calculatorinterface.exe.config
