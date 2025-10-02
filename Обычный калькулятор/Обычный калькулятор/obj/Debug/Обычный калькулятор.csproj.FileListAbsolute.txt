@@ -1,0 +1,7 @@
+C:\Users\k405\source\repos\Обычный калькулятор\Обычный калькулятор\obj\Debug\Обычный калькулятор.csproj.AssemblyReference.cache
+C:\Users\k405\source\repos\Обычный калькулятор\Обычный калькулятор\obj\Debug\Обычный калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\k405\source\repos\Обычный калькулятор\Обычный калькулятор\bin\Debug\Обычный калькулятор.exe.config
+C:\Users\k405\source\repos\Обычный калькулятор\Обычный калькулятор\bin\Debug\Обычный калькулятор.exe
+C:\Users\k405\source\repos\Обычный калькулятор\Обычный калькулятор\bin\Debug\Обычный калькулятор.pdb
+C:\Users\k405\source\repos\Обычный калькулятор\Обычный калькулятор\obj\Debug\Обычный калькулятор.exe
+C:\Users\k405\source\repos\Обычный калькулятор\Обычный калькулятор\obj\Debug\Обычный калькулятор.pdb
