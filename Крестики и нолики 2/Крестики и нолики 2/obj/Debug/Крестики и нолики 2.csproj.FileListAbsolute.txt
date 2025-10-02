@@ -1,0 +1,7 @@
+C:\Users\k405\source\repos\Крестики и нолики 2\Крестики и нолики 2\bin\Debug\Крестики и нолики 2.exe.config
+C:\Users\k405\source\repos\Крестики и нолики 2\Крестики и нолики 2\bin\Debug\Крестики и нолики 2.exe
+C:\Users\k405\source\repos\Крестики и нолики 2\Крестики и нолики 2\bin\Debug\Крестики и нолики 2.pdb
+C:\Users\k405\source\repos\Крестики и нолики 2\Крестики и нолики 2\obj\Debug\Крестики и нолики 2.csproj.AssemblyReference.cache
+C:\Users\k405\source\repos\Крестики и нолики 2\Крестики и нолики 2\obj\Debug\Крестики и нолики 2.csproj.CoreCompileInputs.cache
+C:\Users\k405\source\repos\Крестики и нолики 2\Крестики и нолики 2\obj\Debug\Крестики и нолики 2.exe
+C:\Users\k405\source\repos\Крестики и нолики 2\Крестики и нолики 2\obj\Debug\Крестики и нолики 2.pdb
